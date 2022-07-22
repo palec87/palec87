@@ -7,7 +7,7 @@ I am interested in any data-science open source collaboration. My own current ef
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on getting an effing job.
+- 🔭 I’m currently working on finding problems to solve.
 - 🌱 I’m learning:
     * Algorithms: [codechef](https://www.codechef.com/users/palec87) (rating: 1622), [leetcode](https://leetcode.com/palec87/) (rating: 1567)
     * Data science: Kaggle etc.
@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 ## Tools:
 * Python
   * Visual: matplotlib, seaborn, plotly
-  * DS: numpy, scipy, sklearn, tensorflow
+  * DS: pandas, numpy, scipy, sklearn, tensorflow
   * Apps: Flask, Dash, Heroku
+  * Env: VScode, Jupyter
 * Git, Travis CI
-* SQL
+* MySQL
 * Latex
 
 
