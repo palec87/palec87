@@ -12,7 +12,7 @@ Here are some ideas to get you started:
     * Algorithms: [codechef](https://www.codechef.com/users/palec87) (rating: 1760), [leetcode](https://leetcode.com/palec87/) (rating: 1567)
     * Data science: Kaggle etc.
     * Graphs
-- 👯 I’m looking to collaborate on [Pymarad](https://tutor-online.biz/)
+- 👯 I’m looking to collaborate on [Pymarad](https://tutor-online.biz/), which got web [App](https://pymarad-app.herokuapp.com/) too.
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 -->
