@@ -1,25 +1,25 @@
 ## Hey there,
 
-I am interested in any data-science open source collaboration. My own current efforts go into *Pymarad* (educational projects combining high-school curiculum, python and real-world tasks) and its web application *pymapp*.
+I am a postdoc building 3D optical tomography setups and learning image reconstruction techniques. My outreach revolves around creating educational projects combining high-school curiculum, python and real-world challenges ([Pymarad](https://github.com/palec87/pymarad)) and its web application ([Pymapp](http://palec.eu.pythonanywhere.com/)).
 
-<!--
-**palec87/palec87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on finding problems to solve.
 - 🌱 I’m learning:
+    * Deep learning for image reconstructions.
+    * Compressed sensing.
+    * Diffusion models.
+    
+
+<!-- - 🤔 I’m looking for help with 
+- 💬 Ask me about ...
+- 🔭 I’m currently working on finding problems to solve.
     * Algorithms: [codechef](https://www.codechef.com/users/palec87) (rating: 1760), [leetcode](https://leetcode.com/palec87/) (rating: 1567)
     * Data science: Kaggle etc.
     * Graphs
-- 👯 I’m looking to collaborate on [Pymarad](https://tutor-online.biz/), for which I recently developed a web [App](https://pymarad-app.herokuapp.com/) too.
-<!-- - 🤔 I’m looking for help with 
-- 💬 Ask me about ...
+- ⚡ Fun fact: I'm a physicist
+- 👯 I’m looking to collaborate on , for which I recently developed a web [App] too.
 -->
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a physicist
 
-## Let's connect
+## Let's collaborate
 <a href="https://linkedin.com/in/david-palecek-49478b21b/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
@@ -28,15 +28,12 @@ Here are some ideas to get you started:
     <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"/>
 </a>
 
-
 ## Tools:
 * Python
   * Visual: matplotlib, seaborn, plotly
-  * DS: pandas, numpy, scipy, sklearn, tensorflow
-  * Apps: Flask, Dash, Heroku
-  * Env: VScode, Jupyter
-* Git, Travis CI
-* MySQL
+  * DS: pandas, numpy, scipy, sklearn, pytorch
+  * Apps: Flask, Dash, napari, ImSwitch, PyQt
+* Git, MySQL
 * Latex
 
 
