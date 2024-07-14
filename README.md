@@ -1,12 +1,23 @@
 ## Hey there,
 
-I am a postdoc building 3D optical tomography setups and learning image reconstruction techniques. My outreach revolves around creating educational projects combining high-school curiculum, python and real-world challenges ([Pymarad](https://github.com/palec87/pymarad)) and its web application ([Pymapp](http://palec.eu.pythonanywhere.com/)).
+I am an academic soul, monetizing sucks and I worry how are we going to pay for the consequences.
+
+- 🛠️ Working on:
+    * 3D optical tomography and image reconstructions [QBI group](https://github.com/QBioImaging)
+    * Organizing Blue economy and biotechnology hackathon [Code Blue](https://codeblue.pt/)
+    * Creating educational projects combining high-school curiculum, python and real-world challenges ([Pymarad](https://github.com/palec87/pymarad))
+    * Improving scientific computing in Algarve (Portugal), [Python club](https://github.com/Py-ualg)
+    
+- 🎄 Contributing to:
+    * [Imswitch](https://imswitch.readthedocs.io/en/stable/index.html)
+    * [napari](https://napari.org/stable/)
 
 - 🌱 I’m learning:
-    * Deep learning for image reconstructions.
-    * Compressed sensing.
-    * Diffusion models.
-    
+    * Deep learning for image classification and inverse problems
+    * Compressed sensing
+
+- 💬 Ask me about ultrafast coherent spectroscopy
+- ⚡ Fun fact: I'm a physicist, climber, and humbled by depression.
 
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
@@ -14,10 +25,10 @@ I am a postdoc building 3D optical tomography setups and learning image reconstr
     * Algorithms: [codechef](https://www.codechef.com/users/palec87) (rating: 1760), [leetcode](https://leetcode.com/palec87/) (rating: 1567)
     * Data science: Kaggle etc.
     * Graphs
-- ⚡ Fun fact: I'm a physicist
+
 - 👯 I’m looking to collaborate on , for which I recently developed a web [App] too.
 -->
-- 😄 Pronouns: he/him
+- 🌈 Pronouns: he/him
 
 ## Let's collaborate
 <a href="https://linkedin.com/in/david-palecek-49478b21b/">
