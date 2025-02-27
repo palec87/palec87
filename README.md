@@ -4,34 +4,20 @@ I am an academic soul, monetizing sucks and I worry how are we going to pay for 
 
 - 🛠️ Working on:
 	* [EMO BON](https://github.com/emo-bon) metagenomics pilots within [FAIR-EASE project](https://www.fairease.eu/)
-   * Improving scientific computing in Algarve (Portugal), [Python club](https://github.com/Py-ualg)
-
+	* Improving scientific computing in Algarve (Portugal), [Python club](https://github.com/Py-ualg)
 - 🎄 Contributing to:
-   * Elixir apps to support [foster care](https://github.com/Levin/foster-questionaire-pt) in Portugal and raise awareness about [groundwater scarcity](https://aww.fly.dev/)
-
+	* Elixir apps to support [foster care](https://github.com/Levin/foster-questionaire-pt) in Portugal and raise awareness about [groundwater scarcity](https://aww.fly.dev/)
 - 🌱 Learning:
 	* Bioinformatics, genomics
-   * Open and FAIR data tools
-   * Elixir
-   * Build community, create social impact
-
+	* Open and FAIR data tools
+	* Elixir
+	* Build community, create social impact
 - 🗝️ Retired projects:
 	* 3D optical tomography and image reconstructions [QBI group](https://github.com/QBioImaging)
 	* 2024 Blue economy and biotechnology hackathon [Code Blue](https://codeblue.pt/)
 	* Creating educational projects combining high-school curiculum, python and real-world challenges ([Pymarad](https://github.com/palec87/pymarad))
-
 - 💬 Ask me about ultrafast coherent spectroscopy
 - ⚡ Fun fact: I'm a physicist, climber, and humbled by depression.
-
-<!-- - 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 🔭 I’m currently working on finding problems to solve.
-    * Algorithms: [codechef](https://www.codechef.com/users/palec87) (rating: 1760), [leetcode](https://leetcode.com/palec87/) (rating: 1567)
-    * Data science: Kaggle etc.
-    * Graphs
-
-- 👯 I’m looking to collaborate on , for which I recently developed a web [App] too.
--->
 - 🌈 Pronouns: he/him
 
 ## Let's collaborate
