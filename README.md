@@ -5,17 +5,17 @@ I am an academic soul, monetizing sucks and I worry how are we going to pay for 
 - 🛠️ Working on:
 	* [EMO BON](https://github.com/emo-bon) metagenomics pilots within [FAIR-EASE project](https://www.fairease.eu/)
 	* Improving scientific computing in Algarve (Portugal), [Python club](https://github.com/Py-ualg)
+    * Bioinformatics hands-on tutorials [BIOHaP](https://py-ualg.github.io/biohap/)	
 - 🎄 Contributing to:
-	* Elixir apps to support [foster care](https://github.com/Levin/foster-questionaire-pt) in Portugal and raise awareness about [groundwater scarcity](https://aww.fly.dev/)
+	* Elixir apps to support [foster care](https://foster-pt.fly.dev/) in Portugal
 - 🌱 Learning:
 	* Bioinformatics, genomics
 	* Open and FAIR data tools
 	* Elixir
-	* Build community, create social impact
+	* Knowledge graphs
 - 🗝️ Retired projects:
 	* 3D optical tomography and image reconstructions [QBI group](https://github.com/QBioImaging)
 	* 2024 Blue economy and biotechnology hackathon [Code Blue](https://codeblue.pt/)
-	* Creating educational projects combining high-school curiculum, python and real-world challenges ([Pymarad](https://github.com/palec87/pymarad))
 - 💬 Ask me about ultrafast coherent spectroscopy
 - ⚡ Fun fact: I'm a physicist, climber, and humbled by depression.
 - 🌈 Pronouns: he/him
