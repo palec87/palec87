@@ -35,7 +35,7 @@ I am an academic soul, monetizing sucks and I worry how are we going to pay for 
 	* DS: pandas, numpy, scipy, sklearn, pytorch
 	* Apps: Flask, Dash, napari, ImSwitch, PyQt
 * Frontend: elixir, svelte, tailwind, Vue.js
-* Git, MySQL
+* Git, Postgres, RO-Crates
 * Latex
 
 | [![Palec's GitHub stats](https://github-readme-stats.vercel.app/api?username=palec87&theme=radical)](https://github.com/palec87/github-readme-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palec87&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=radical&locale=en&layout=compact) |
